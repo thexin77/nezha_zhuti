@@ -6,6 +6,6 @@ wget -N https://github.com/thexin77/nezha_zhuti/releases/download/Zhuti/Love7.ta
 ```
 wget -N https://github.com/thexin77/nezha_zhuti/releases/download/Zhuti/Loveguoqi.tar.gz && tar -xzvf Loveguoqi.tar.gz && rm -rf Loveguoqi.tar.gz && ./backup.sh
 ```
-#### 敬请期待
+#### 敬请期待！
 
 
